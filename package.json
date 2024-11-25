@@ -38,6 +38,6 @@
   "devDependencies": {
     "@testing-library/jest-dom": "^6.6.3",
     "prettier": "3.3.3",
-    "typescript": "5.7.2"
+    "typescript": "^5.7.2",
   }
 }
